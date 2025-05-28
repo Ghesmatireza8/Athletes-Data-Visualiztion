@@ -14,6 +14,16 @@ A desktop application developed using **Python** and **PyQt5** that allows users
 
 ---
 
+## 🖼️ Screenshots
+
+### 1. Tab one for save new data and show charts
+![Tab One](screenshots/Tab_one.PNG)
+
+### 2. Tab two for show all data in csv file
+![Tab two](screenshots/Tab_two.PNG)
+
+---
+
 ## 📦 Requirements
 
 - Python 3.7+
@@ -70,6 +80,7 @@ Athletes-Data-Visualiztion/
 ├── icon.png                                # Application icon
 ├── res.qrc                                 # Qt resource file
 ├── res.py                                  # Compiled Qt resource
+├──screenshots                              # screenshots for show in README.md file
 └── README.md                               # Project description
 ```
 
