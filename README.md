@@ -97,3 +97,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Created by [@Ghesmatireza8](https://github.com/Ghesmatireza8)  
 Feel free to contribute or reach out with feedback!
+
+⭐ If you like this project, consider giving it a star on GitHub!
