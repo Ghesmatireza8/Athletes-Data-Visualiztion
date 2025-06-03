@@ -81,6 +81,7 @@ Athletes-Data-Visualiztion/
 ├── res.qrc                                 # Qt resource file
 ├── res.py                                  # Compiled Qt resource
 ├──screenshots                              # screenshots for show in README.md file
+├── LICENSE                                 # License file for this project
 └── README.md                               # Project description
 ```
 
